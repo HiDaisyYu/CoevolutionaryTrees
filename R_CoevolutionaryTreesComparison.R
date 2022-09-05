@@ -1,4 +1,6 @@
-#### Coevolutionary Trees Comparison
+#########################################
+#### Coevolutionary Trees Comparison ####
+#########################################
 
 #### 1. Read trees in Newick format using R
 ## you need two phylogenetic trees nwk files to do below analysis
